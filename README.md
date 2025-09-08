@@ -2,7 +2,7 @@ Weather Forecast 🌦️
 
 A simple weather forecasting web application that shows current weather conditions using an external weather API.
 
-🔗 Live Demo : (https://disha0413.github.io/Weather-forecast/)  
+🔗 Live Demo : [https://disha0413.github.io/Weather-forecast/](https://github.com/Disha0413/Weather-forecast)
 
 📸 Preview!
 
@@ -24,5 +24,6 @@ A simple weather forecasting web application that shows current weather conditio
 1. Clone the repo:
    ```bash
    git clone https://github.com/Disha0413/Weather-forecast.git
+
 
 
